@@ -1,6 +1,6 @@
 <h2 align="center"> <a href="https://arxiv.org/abs/2501.07236">CSTA: Spatial-Temporal Causal Adaptive Learning for Exemplar-Free Video Class-Incremental Learning</a></h2>
 
-<h5 align="center"> IEEE T-CSVT Under Review </h2>
+<h5 align="center"> IEEE T-CSVT </h2>
 
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2>
 
@@ -70,7 +70,7 @@ pip install -r requirements.txt
 @article{chen2025csta,
   title={CSTA: Spatial-Temporal Causal Adaptive Learning for Exemplar-Free Video Class-Incremental Learning},
   author={Chen, Tieyuan and Liu, Huabin and Lim, Chern Hong and See, John and Gao, Xing and Hou, Junhui and Lin, Weiyao},
-  journal={arXiv preprint arXiv:2501.07236},
+  journal={IEEE Transactions on Circuits and Systems for Video technology},
   year={2025}
 }
 ```
