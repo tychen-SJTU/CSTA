@@ -71,6 +71,9 @@ pip install -r requirements.txt
   title={CSTA: Spatial-Temporal Causal Adaptive Learning for Exemplar-Free Video Class-Incremental Learning},
   author={Chen, Tieyuan and Liu, Huabin and Lim, Chern Hong and See, John and Gao, Xing and Hou, Junhui and Lin, Weiyao},
   journal={IEEE Transactions on Circuits and Systems for Video technology},
-  year={2025}
+  year={2025},
+  volume={35},
+  number={11},
+  pages={11488-11501},
 }
 ```
